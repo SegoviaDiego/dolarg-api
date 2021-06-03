@@ -3,7 +3,7 @@
 API para obtener las cotizaciones históricas del Dólar en Pesos Argentinos.
 
 ## Docs
-API URL: TO DO
+API URL: https://dolarg-api.herokuapp.com/
 
 | METHOD | URL | PARAMS | DESCRIPTION | RESPONSE |
 | ------ | ------ | ------ | ------ | ------ |
